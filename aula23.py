@@ -1,5 +1,5 @@
-TIPO INTEIRO:
-------------------------------------------
+#TIPO INTEIRO:
+
 10
 num  = 10
 print(num)
@@ -16,7 +16,7 @@ type(num)
 2**64
 2**2000
 #para limpar o console: CRTL + L
-1000000  -->  1_000_000
+1000000  #-->  1_000_000
 #PARA FACILITAR A VISUALIZAÇÃO
 num = num+1
 num+=1
