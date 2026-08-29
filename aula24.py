@@ -1,6 +1,6 @@
 # TIPO FLOAT (reais ou decimais):
 # ATENÇÃO: O separador de casas decimais
-# é o PONTO e não a VIRGULA
+# é o PONTO e não a VIRGULA,
 
 10.0
 num  = 10.0
