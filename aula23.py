@@ -1,4 +1,4 @@
-#TIPO INTEIRO:
+#TIPO INTEIRO (int):
 
 10
 num  = 10
