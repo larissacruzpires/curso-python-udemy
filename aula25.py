@@ -1,6 +1,6 @@
-TIPO BOOLEANO (LÓGICO)
-ATENÇÃO: True    False
-------------------------------------------
+# TIPO BOOLEANO (LÓGICO)
+# ATENÇÃO: True    False
+
 True
 flag  = False
 print(flag)
@@ -15,4 +15,3 @@ flag.real
 
 num = 2
 dir(num)
-nu
