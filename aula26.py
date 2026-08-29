@@ -1,8 +1,8 @@
-TIPO STRING (CHAR ou caracter)
-ATENÇÃO: 1 ou mais caracteres = STRING
-ATENÇÃO 2: s = 'a' ou "a"  -> sem quebra de linha
-           s = '''a'''  ou  """a"""   -> com quebra de linha
------------------------------------------------------------
+# TIPO STRING (CHAR ou caracter)
+# ATENÇÃO: 1 ou mais caracteres = STRING
+# ATENÇÃO 2: s = 'a' ou "a"  -> sem quebra de linha
+          # s = '''a'''  ou  """a"""   -> com quebra de linha
+
 letra='a'
 palavra='pyPRO'
 type(letra)
