@@ -1,7 +1,7 @@
-TIPO FLOAT (reais ou decimais):
-ATENÇÃO: O separador de casas decimais 
-é o PONTO e não a VIRGULA
-------------------------------------------
+# TIPO FLOAT (reais ou decimais):
+# ATENÇÃO: O separador de casas decimais
+# é o PONTO e não a VIRGULA
+
 10.0
 num  = 10.0
 print(num)
@@ -18,7 +18,7 @@ type(num)
 2.45**64
 2.45**2000
 #para limpar o console: CRTL + L
-1000000.00000000  -->  1_000_000.000_000_00
+1000000.00000000  # --> 1_000_000.000_000_00
 #PARA FACILITAR A VISUALIZAÇÃO
 
 num = num+1.8
