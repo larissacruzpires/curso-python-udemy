@@ -1,4 +1,5 @@
-#TIPO INTEIRO (int):
+# Tipos primitivos e estruturas basicas
+# Tipo Inteiro (int):
 
 10
 num  = 10
