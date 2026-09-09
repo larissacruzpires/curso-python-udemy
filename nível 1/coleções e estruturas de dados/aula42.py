@@ -1,2 +1,2 @@
-# Função Lista: cidades
+# Função Lista (list)
 
