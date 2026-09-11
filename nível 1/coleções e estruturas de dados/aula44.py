@@ -1,4 +1,4 @@
-# Dicionários (dict) - Apartamento
+# Dicionários (dict): Apartamento
 
 proprietarios = {}
 
