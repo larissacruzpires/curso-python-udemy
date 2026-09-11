@@ -1,4 +1,4 @@
-# Função Tuplas (tuple): Idades
+# Tuplas (tuple): Idade
 
 lista_idades = []
 
