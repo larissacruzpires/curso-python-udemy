@@ -1,7 +1,6 @@
 # Desafio: Média da idade e calçados
 
-nome = {}
-idade = {}
+pessoas = {}
 
 while True:
-    n = int(input("Digite o n° do calçado: ")) # n° de calçado
+    pessoa = input("Digite o nome da pessoa: ")
