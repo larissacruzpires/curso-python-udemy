@@ -1,4 +1,4 @@
-# Função com parâmetros Área do Cilindro
+# Função com parâmetros: Área do Cilindro
 
 def area_circulo(raio):
     PI = 3.141592
