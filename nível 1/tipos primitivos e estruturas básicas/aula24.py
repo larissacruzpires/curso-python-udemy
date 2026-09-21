@@ -1,6 +1,6 @@
-# TIPO FLOAT (reais ou decimais):
-# ATENÇÃO: O separador de casas decimais
-# é o PONTO e não a VIRGULA,
+# Tipo Float (reais ou decimais):
+# Obs: o separador de casas decimais
+# é o ponto e não a virgula,
 
 10.0
 num  = 10.0
@@ -13,13 +13,13 @@ num = float(inteiro)
 print(num)
 type(10.44)
 type(num)
-#tamanho: 64 bits?  Em python não tem limite!!
+# tamanho: 64 bits?  em python não tem limite!
 2.45**32
 2.45**64
 2.45**2000
-#para limpar o console: CRTL + L
+# para limpar o console: CRTL + L
 1000000.00000000  # --> 1_000_000.000_000_00
-#PARA FACILITAR A VISUALIZAÇÃO
+# para facilitar a vizualização
 
 num = num+1.8
 print(int(num))
@@ -28,7 +28,7 @@ print(int(num))
 dir(num)
 num.__add__(8)
 
-#Numeros complexos
+# números complexos
 # n acompanhado de i   //  n acompanhado de j
 5j
 6+5j
