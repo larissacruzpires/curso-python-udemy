@@ -1,5 +1,5 @@
-# Tipos primitivos e estruturas basicas
-# Tipo Inteiro (int):
+# Tipos primitivos - Inteiro (int):
+
 
 10
 num  = 10
@@ -12,13 +12,13 @@ int(7/2)
 7**2
 type(10)
 type(num)
-#tamanho: 32 ou 64 bits?  Em python não tem limite!!
+#tamanho: 32 ou 64 bits?  em python não tem limite!
 2**32
 2**64
 2**2000
 #para limpar o console: CRTL + L
 1000000  #-->  1_000_000
-#PARA FACILITAR A VISUALIZAÇÃO
+#para facilitar A visualização
 num = num+1
 num+=1
 #(-, *, /)
