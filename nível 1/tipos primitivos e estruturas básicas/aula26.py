@@ -1,7 +1,7 @@
-# TIPO STRING (CHAR ou caracter)
-# ATENÇÃO: 1 ou mais caracteres = STRING
-# ATENÇÃO 2: s = 'a' ou "a"  -> sem quebra de linha
-# s = '''a'''  ou  """a"""   -> com quebra de linha
+# Tipo String (char ou caracter)
+# - 1 ou mais caracteres = string
+# -> s = 'a' ou "a"  -> sem quebra de linha
+# -> s = '''a'''  ou  """a"""   -> com quebra de linha
 
 letra='a'
 palavra='pyPRO'
@@ -15,13 +15,13 @@ print(frase[1])
 frase2=['S','e','j','a',' ','u','m',' ','p']
 print(frase2[1])
 
-#Slices de strings
+# slices de strings
 print(frase[0:4])
 
-#Slice de strings: 3 parâmetros:
-#1 - início
-#2 - limite superior (ele pegará até o n-1)
-#3 - tamanho do passo (se deixar em branco, passo igual a 1)
+# slice de strings: 3 parâmetros:
+# 1 - início
+# 2 - limite superior (ele pegará até o n-1)
+# 3 - tamanho do passo (se deixar em branco, passo igual a 1)
 print(frase[0:15:1])
 print(frase[0:15:2])
 print(frase[15:0:-1])
