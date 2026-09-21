@@ -11,13 +11,13 @@ int(7/2)
 7**2
 type(10)
 type(num)
-#tamanho: 32 ou 64 bits?  em python não tem limite!
+# tamanho: 32 ou 64 bits?  em python não tem limite!
 2**32
 2**64
 2**2000
-#para limpar o console: CRTL + L
+# para limpar o console: CRTL + L
 1000000  #-->  1_000_000
-#para facilitar A visualização
+# para facilitar A visualização
 num = num+1
 num+=1
 #(-, *, /)
