@@ -1,5 +1,5 @@
-# TIPO BOOLEANO (LÓGICO)
-# ATENÇÃO: True  e  False
+# Tipo booleano (lógico)
+# Obs: True  e  False
 
 True
 flag  = False
