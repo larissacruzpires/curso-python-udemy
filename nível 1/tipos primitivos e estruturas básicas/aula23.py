@@ -1,5 +1,4 @@
-# Tipos primitivos - Inteiro (int):
-
+# Tipo Inteiro (int):
 
 10
 num  = 10
