@@ -1,5 +1,5 @@
 # Função com parâmetro padrão
-# Quando um parâmetro pode ser omitido
+# quando um parâmetro pode ser omitido
 
 def potencia(numero, expoente=2):
     resultado = pow(numero, expoente)
