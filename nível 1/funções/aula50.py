@@ -5,7 +5,7 @@ def um_megabit():
     return valor
 
 # def um_megabit():
-  #  returno(1024 * 1024) -> Otimização ao invés de usarmos a variável valor
+# returno(1024 * 1024) -> otimização ao invés de usarmos a variável valor
 
 #...
 
