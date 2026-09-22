@@ -1,4 +1,4 @@
-# Conjuntos (sets): lista
+# Conjuntos (sets): listas
 
 palavras = []
 lista = []
