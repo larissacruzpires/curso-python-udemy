@@ -1,4 +1,4 @@
-# Comando while: Tabuada
+# Comando while: tabuada
 
 i = 1
 while i<11:
