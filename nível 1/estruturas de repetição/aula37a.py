@@ -1,4 +1,5 @@
-# Comando for e Função ranger
+# Comando for
+# Função range
 
 soma = 0
 for i in range(1,6):
