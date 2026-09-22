@@ -1,4 +1,4 @@
-# Comando while: Média de idade
+# Comando while: média de idade
 
 idade = 0
 soma = 0
