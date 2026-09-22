@@ -1,4 +1,4 @@
-# Dicionários (dict): Apartamento
+# Dicionários (dict): apartamento
 
 proprietarios = {}
 
@@ -10,7 +10,7 @@ while True:
     else:
         break
 
-edificio = dict(sorted(proprietarios.items())) # Conversão de list para dict
+edificio = dict(sorted(proprietarios.items())) # conversão de list para dict
 
 for chave, valor in  edificio.items():
     print(f"{chave} - {valor}")
