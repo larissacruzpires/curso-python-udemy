@@ -1,5 +1,5 @@
 # Desafio de Estrutas de Repetição - WHILE
-# Exercício prátrico sobre loops
+# Exercício prático sobre loops
 
 n = int(input("Digite um número: "))
 soma = 0
