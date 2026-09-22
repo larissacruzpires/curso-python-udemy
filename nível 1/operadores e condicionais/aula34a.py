@@ -1,5 +1,5 @@
-# Estrutura Condicional: Primeiro Desafio
-# O Número é par ou ímpar?
+# Estrutura Condicional - 1° Desafio
+# o número é par ou ímpar?
 
 n = int(input("Digite um número inteiro e positivo!: "))
 if n > 0:
