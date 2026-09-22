@@ -1,4 +1,4 @@
-# Listas (list): Cidade
+# Listas (list): cidade
 
 cidades = []
 
