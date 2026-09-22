@@ -1,4 +1,4 @@
-# Tuplas (tuple): Idade
+# Tuplas (tuple): idade
 
 lista_idades = []
 
