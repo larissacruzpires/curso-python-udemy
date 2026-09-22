@@ -1,4 +1,4 @@
-# Função com parâmetros: Teste
+# Função com parâmetros: teste
 
 def area_cilindro(raio, altura):
 
