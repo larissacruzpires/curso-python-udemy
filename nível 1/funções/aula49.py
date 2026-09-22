@@ -1,5 +1,5 @@
 # Função sem retorno -> somente executa uma série de tarefas
-# + básica, não retorna valor nenhum e não possui prâmetros
+# + básica, não retorna valor nenhum e não possui parâmetros
 
 def mostra_rodape():
     print("---------------------------------------------------")
