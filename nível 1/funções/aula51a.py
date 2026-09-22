@@ -1,4 +1,4 @@
-# Função com parâmetros: Área do Círculo
+# Função com parâmetros: área do círculo
 
 def area_circulo(raio):
     PI = 3.141592
