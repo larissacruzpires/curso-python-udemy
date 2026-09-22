@@ -1,4 +1,4 @@
-# Aninhamento de Estruturas Condicionais
+# Aninhamento - Estruturas Condicionais
 
 n = int(input("Entre com um número: "))
 
