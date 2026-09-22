@@ -1,4 +1,4 @@
-# Comando break: loop
+# Comando break com loop
 
 n = 0
 while True:
