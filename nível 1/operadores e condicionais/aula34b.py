@@ -1,5 +1,5 @@
-# Estrutura Condicional: Segundo Desafio
-# Peso Ideal
+# Estrutura Condicional: 2° Desafio
+# peso ideal
 
 h = float(input("Digite a sua altura exata: "))
 sexo = (input("Qual o seu sexo <F ou M>: "))
