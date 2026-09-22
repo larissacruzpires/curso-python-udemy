@@ -1,5 +1,5 @@
 # Desafio de Estrutas de Repetição -  FOR
-# Exercício prátrico sobre loops
+# Exercício prático sobre loops
 
 n = input("Digite um número: ")
 soma = 0
