@@ -1,4 +1,4 @@
-# Desafio: Média da idade e calçados
+# Desafio: média da idade e calçados
 
 pessoas = {}
 
