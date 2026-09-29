@@ -1,9 +1,11 @@
 # Desafio: média da idade e calçados
 
-pessoas = {}
-c = {}
-idade = {}
+produtos = {}
+precos = {}
+
+for p in range(1,4):
+    produto = str(input(f"Digite o nome do produto {p}: "))
+    preco = float(input("Digite o preço do produto: "))
 
 
-while True:
-    pessoa = input("Digite o nome da pessoa: ")
+print(produtos, precos)
