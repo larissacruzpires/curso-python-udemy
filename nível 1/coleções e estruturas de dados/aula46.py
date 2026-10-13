@@ -3,7 +3,7 @@
 produtos = {}
 precos = {}
 
-for p in range(1,4):
+for produto in range(1,4):
     produto = str(input(f"Digite o nome do produto {p}: "))
     preco = float(input("Digite o preço do produto: "))
 
