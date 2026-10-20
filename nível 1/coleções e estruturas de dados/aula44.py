@@ -3,7 +3,7 @@
 proprietarios = {}
 
 while True:
-    apto = int(input('Digite o apto: '))
+    apto = int(input('Digite o apartamento: '))
     if apto != -1:
         proprietario = input("Proprietário: ")
         proprietarios.update({apto:proprietario})
