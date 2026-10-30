@@ -1,2 +1,2 @@
-# python-estudos
-Projetos e execícios em Python 
+# python-studies
+Python Projects & Studies
